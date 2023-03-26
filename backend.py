@@ -1,0 +1,1 @@
+"""Laczenie z baza danych i dodanie ich"""
